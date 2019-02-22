@@ -1,0 +1,8 @@
+.oho-navbar {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: flex-end !important;
+ 
+   
+}
+
